@@ -34,7 +34,7 @@ def legfiatalabb():
 def legidosebb():
 
 # 4. Lakcímek listájának kiírása
-def lakcimek()
+def lakcimek():
 
 # 5. Az összes személy kiírása
 def szemelyek_lista():
